@@ -50,5 +50,5 @@ This is a simple calculator extension for google chrome which allows you to perf
 
 <img src="https://github.com/DelwarSumon/chrome-extension-calculator/blob/main/assets/images/extension.png?raw=true">
 
-**Have FUN**
+***-- Have FUN --***
 
